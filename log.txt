@@ -1,0 +1,35 @@
+
+======Begin Spotify Log Entry======
+Artist: Lynyrd Skynyrd
+Song: Sweet Home Alabama
+Preview URL: null
+Album: Second Helping
+======End Spotify Log Entry======
+
+======Begin Spotify Log Entry======
+Artist: Lynyrd Skynyrd
+Song: Sweet Home Alabama - Edit
+Preview URL: null
+Album: 20th Century Masters: The Millennium Collection: Best Of The '70s
+======End Spotify Log Entry======
+
+======Begin Spotify Log Entry======
+Artist: Josh Vietti
+Song: Sweet Home Alabama
+Preview URL: https://p.scdn.co/mp3-preview/eeb3091e87227b7148a127014c5fcf0dd360c653?cid=fc9b700de9d4401f8ac15149b65454be
+Album: Sweet Home Alabama
+======End Spotify Log Entry======
+
+======Begin Spotify Log Entry======
+Artist: Hosier
+Song: Jammin Sweet Home Alabama
+Preview URL: https://p.scdn.co/mp3-preview/1d2679b75aa6d476f7e9dcacbb41d3c3301f0c64?cid=fc9b700de9d4401f8ac15149b65454be
+Album: Paving My Way
+======End Spotify Log Entry======
+
+======Begin Spotify Log Entry======
+Artist: The Calling
+Song: Keep Your Hands To Yourself - Original Version
+Preview URL: null
+Album: Sweet Home Alabama
+======End Spotify Log Entry======
