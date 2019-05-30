@@ -60,5 +60,6 @@ This will output the command placed in random.txt file
 The results will be logged in log.txt file
 
 ---> DEMO<---
-<video src="./gifs-vidoes/node-liri.js-commands.mp4" width="320" height="200" controls preload></video>
-<video src="./gifs-vidoes/log.txt.mp4" width="320" height="200" controls preload></video>
+<video src="./gifs-videos/spotify.mp4" width="320" height="200" controls preload></video>
+<a target="_blank" rel="noopener noreferrer" href="./gifs-videos/spotify.mp4">
+<img src="./gifs-videos/spotify.mp4" alt="spotrify commands" style="max-width:100%;"></a>

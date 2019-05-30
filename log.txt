@@ -161,3 +161,73 @@ Language:  English, Mohawk
 Plot:  A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 Actors:  Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 ======End OMDB Results=====
+
+======Begin Spotify Results======
+Artist: Lynyrd Skynyrd
+Song: Sweet Home Alabama
+Preview URL: null
+Album: Second Helping
+======End Spotify Results======
+
+======Begin Spotify Results======
+Artist: Lynyrd Skynyrd
+Song: Sweet Home Alabama - Edit
+Preview URL: null
+Album: 20th Century Masters: The Millennium Collection: Best Of The '70s
+======End Spotify Results======
+
+======Begin Spotify Results======
+Artist: Hosier
+Song: Jammin Sweet Home Alabama
+Preview URL: https://p.scdn.co/mp3-preview/1d2679b75aa6d476f7e9dcacbb41d3c3301f0c64?cid=fc9b700de9d4401f8ac15149b65454be
+Album: Paving My Way
+======End Spotify Results======
+
+======Begin Spotify Results======
+Artist: The Calling
+Song: Keep Your Hands To Yourself - Original Version
+Preview URL: null
+Album: Sweet Home Alabama
+======End Spotify Results======
+
+======Begin Spotify Results======
+Artist: Josh Vietti
+Song: Sweet Home Alabama
+Preview URL: https://p.scdn.co/mp3-preview/eeb3091e87227b7148a127014c5fcf0dd360c653?cid=fc9b700de9d4401f8ac15149b65454be
+Album: Sweet Home Alabama
+======End Spotify Results======
+
+======Begin Spotify Results======
+Artist: Ace of Base
+Song: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=fc9b700de9d4401f8ac15149b65454be
+Album: The Sign (US Album) [Remastered]
+======End Spotify Results======
+
+======Begin Spotify Results======
+Artist: Ace of Base
+Song: All That She Wants
+Preview URL: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=fc9b700de9d4401f8ac15149b65454be
+Album: The Sign (US Album) [Remastered]
+======End Spotify Results======
+
+======Begin Spotify Results======
+Artist: Ace of Base
+Song: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=fc9b700de9d4401f8ac15149b65454be
+Album: Greatest Hits
+======End Spotify Results======
+
+======Begin Spotify Results======
+Artist: Ace of Base
+Song: Don't Turn Around
+Preview URL: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=fc9b700de9d4401f8ac15149b65454be
+Album: The Sign (US Album) [Remastered]
+======End Spotify Results======
+
+======Begin Spotify Results======
+Artist: Ace of Base
+Song: Happy Nation
+Preview URL: https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=fc9b700de9d4401f8ac15149b65454be
+Album: The Sign (US Album) [Remastered]
+======End Spotify Results======
