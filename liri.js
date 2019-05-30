@@ -33,21 +33,9 @@ function pick (caseData, userInput){
             break;
         default: console.log('Liri does not know this command')
        }
-    //    logAction(caseData, userInput);
+   
 }
-//-------log----------------------------//
 
-// function logAction(text, userInput) {
-//     var logName = userInput.split("+").join(" ");
-//     fs.appendFile("log.txt", text + ", " + logName + " \n", function (err) {
-//         if (err) {
-//             console.log(err);
-//         } else {
-//             console.log("Content Added!");
-//         }
-
-//     });
-// }
 
 //  -----------"Spotify" Function spotifyThisSong-----------//
 function spotifyThisSong (trackName){
@@ -68,12 +56,12 @@ function spotifyThisSong (trackName){
          for (var i=0 ; i<5 ; i++){
 
             var spotifyResults =
-                            "\n======Begin Spotify Log Entry======" + "\n" +
+                            "\n======Begin Spotify Results======" + "\n" +
                             "Artist: " + trackInfo[i].artists[0].name + "\n" +
                             "Song: " + trackInfo[i].name + "\n" +
                             "Preview URL: " + trackInfo[i].preview_url + "\n" +
                             "Album: " + trackInfo[i].album.name + "\n"+
-                            "======End Spotify Log Entry======" + "\n";
+                            "======End Spotify Results======" + "\n";
             console.log(spotifyResults)  ; 
 
            
@@ -113,20 +101,23 @@ function getMovie (movieName){
 
         
 
-          var OMDBResults=  "Movie Title:  " + response.data.Title + "\n" +
+          var OMDBResults=  "\n======Begin OMDB Results======" + "\n" +
+                            "Movie Title:  " + response.data.Title + "\n" +
                             "Release Year:  " + response.data.Year + "\n" +
                             "IMDB Rating:   " + response.data.imdbRating+ "\n" +
                             "Rotten Tomatoes Rating:   " + response.data.Ratings[1].Value + "\n" +
                             "Country:  " + response.data.Country + "\n" +
                             "Language:  " + response.data.Language + "\n" +
                             "Plot:  " + response.data.Plot + "\n" +
-                             "Actors:  " + response.data.Actors + "\n" 
-        console.log(OMDBResults) ; 
-        // fs.appendFile("log.txt", OMDBResults , function(err) {
-        //     if (err) {
-        //       return console.log(err);
-        //     }
-        //   });
+                             "Actors:  " + response.data.Actors + "\n" +
+                             "======End OMDB Results=====" + "\n";
+        
+         console.log(OMDBResults) ; 
+
+        fs.appendFile("log.txt", OMDBResults, function (err) {
+            if (err) throw err;
+        });
+    
 
       });
      
@@ -153,18 +144,17 @@ function bandsInTown (band){
         for (var i=0 ; i<5 ; i++){
 
             
-            var concertsResults =  "Name of the venue: " + response.data[i].venue.name + "\n" +
+            var concertsResults =  "\n======Begin Concerts Results======" + "\n" +
+                                   "Name of the venue: " + response.data[i].venue.name + "\n" +
                                    "Venue Location: " + response.data[i].venue.city + "\n" +
                                    "Venue Region: " + response.data[i].venue.region + "\n" +
-                                   "Date of event: " +  moment(response.data[i].datetime).format("MM-DD-YYYY") + "\n"
+                                   "Date of event: " +  moment(response.data[i].datetime).format("MM-DD-YYYY") + "\n"+
+                                   "======End Concerts Results======" + "\n";
              console.log(concertsResults);
 
-            //  fs.appendFile("log.txt", concertsResults , function(err) {
-            //     if (err) {
-            //       return console.log(err);
-            //     }
-            //   });
-
+             fs.appendFile("log.txt", concertsResults, function (err) {
+                if (err) throw err;
+            });
              
          
         }
