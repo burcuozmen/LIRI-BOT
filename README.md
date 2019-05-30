@@ -60,4 +60,4 @@ This will output the command placed in random.txt file
 The results will be logged in log.txt file
 
 ---> DEMO<---
-Please see the Videos on videos folder
+Please see the videos and gifs for the demo
