@@ -61,3 +61,7 @@ The results will be logged in log.txt file
 
 ---> DEMO<---
 Please see the videos and gifs for the demo
+
+concert-cardiB.gif
+movie-blank.gif
+movie-starWars.gif
