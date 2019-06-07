@@ -63,5 +63,7 @@ The results will be logged in log.txt file
 Please see the videos and gifs for the demo
 
 ![](concert-cardiB.gif)
-movie-blank.gif
-movie-starWars.gif
+![](movie-blank.gif)
+![](movie-starWars.gif)
+![](spotify-blank.gif)
+![](spotify-love-song.gif)
